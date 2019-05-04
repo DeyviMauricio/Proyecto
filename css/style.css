@@ -47,6 +47,7 @@ body{
 .pie ul li a{
     display:flex;
     flex-direction: column;
+    flex-wrap: wrap;
     
 }
 .pie ul li a i{
@@ -64,6 +65,9 @@ body{
 }
 .pie a .fa-github{
     color:#211F1F;
+}
+.pie a .fa-whatsapp{
+    color:#25d366;
 }
 
 .contenido{
