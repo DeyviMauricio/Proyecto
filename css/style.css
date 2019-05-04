@@ -62,6 +62,9 @@ body{
 .pie ul li a .fa-youtube{
     color:#FF0000;
 }
+.pie a .fa-github{
+    color:#211F1F;
+}
 
 .contenido{
     display:flex;
